@@ -771,6 +771,7 @@ function chatModule(bot) {
       console.log('[Chat] Error:', e.message);
     }
   });
+  
  // ============================================================
 // DISCORD WEBHOOK INTEGRATION
 // ============================================================
